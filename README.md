@@ -44,7 +44,6 @@ Focused on growth, consistency, and continuous learning
 ![Git](https://img.shields.io/badge/Git-black?style=flat-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-the-badge&logo=visual-studio-code)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=flat-the-badge&logo=mysql)
 
 ## Career Goals
