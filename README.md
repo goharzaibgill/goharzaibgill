@@ -18,3 +18,27 @@ Focused on growth, consistency, and continuous learning
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-gohar-zaib-gill-1b51693ba)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-the-badge&logo=gmail)](mailto:masharfgill229@gmail.com)
+
+## Skills
+
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-the-badge&logo=javascript)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-green?style=flat-the-badge)
+![UI/UX Basics](https://img.shields.io/badge/UI%2FUX_Basics-purple?style=flat-the-badge)
+
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-blue?style=flat-the-badge&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-the-badge&logo=javascript)
+
+---
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-black?style=flat-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-the-badge&logo=visual-studio-code)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=flat-the-badge&logo=mysql)
