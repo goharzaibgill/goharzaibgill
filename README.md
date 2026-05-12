@@ -42,3 +42,21 @@ Focused on growth, consistency, and continuous learning
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-the-badge&logo=visual-studio-code)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=flat-the-badge&logo=mysql)
+
+## Career Goals
+
+- Develop strong expertise in Frontend Development using HTML, CSS, and JavaScript with a focus on building responsive and user-friendly interfaces.
+
+- Gain in-depth knowledge of React.js and modern frontend frameworks to build scalable web applications.
+
+- Learn backend development fundamentals using Node.js and Express.js to become a competent full-stack developer.
+
+- Strengthen database management skills using MySQL and Firebase for real-world applications.
+
+- Build and deploy multiple real-world projects including management systems, web applications, and e-commerce platforms.
+
+- Improve version control and collaboration skills using Git and GitHub by contributing to projects and open-source repositories.
+
+- Gain professional industry experience through internships and freelancing opportunities.
+
+- Transform academic projects into real-world startup-level solutions with long-term scalability and impact.
