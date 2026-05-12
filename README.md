@@ -1,7 +1,11 @@
-BSIT Student | Frontend Web Developer
-Honhaar Scholarship Recipient
-Passionate about Web Development, Problem Solving & Building Real-World Projects
-Currently working on innovative university automation systems and improving my development skills every day.
+BSIT Student | Frontend Web Developer  
+Honhaar Scholarship Recipient (Fully Funded Degree)  
+
+Passionate about Web Development, Problem Solving & Building Real-World Projects.  
+Currently working on innovative university automation systems and continuously improving my development skills.
+
+Academic Performance: CGPA 3.77 / 4.00
+
 
 **About Me**
 
