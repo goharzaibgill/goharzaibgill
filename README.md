@@ -23,6 +23,11 @@ Focused on growth, consistency, and continuous learning
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-the-badge&logo=gmail)](mailto:masharfgill229@gmail.com)
 
+
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## Skills
 
 
