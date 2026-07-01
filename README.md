@@ -24,9 +24,6 @@ Focused on growth, consistency, and continuous learning
 [![Email](https://img.shields.io/badge/Email-red?style=flat-the-badge&logo=gmail)](mailto:masharfgill229@gmail.com)
 
 
-<div align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## Skills
 
@@ -68,3 +65,8 @@ Focused on growth, consistency, and continuous learning
 - Gain professional industry experience through internships and freelancing opportunities.
 
 - Transform academic projects into real-world startup-level solutions with long-term scalability and impact.
+
+
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
