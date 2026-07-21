@@ -4,7 +4,7 @@ Honhaar Scholarship Recipient (Fully Funded Degree)
 Passionate about Web Development, Problem Solving & Building Real-World Projects.  
 Currently working on innovative university automation systems and continuously improving my development skills.
 
-Academic Performance: CGPA 3.77 / 4.00
+Academic Performance: CGPA 3.71 / 4.00
 
 
 **About Me**
